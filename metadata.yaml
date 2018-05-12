@@ -1,0 +1,34 @@
+_repo: The-Haunting-of-Low-FennelThe-Haunting-of-Low-Fennel-The-Valley-of-the-Just-The-Blue-Monkey-T__41619
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41619-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rohmer, Sax
+    alias: Ward, Arthur Sarsfield
+    birthdate: 1883
+    deathdate: 1959
+    gutenberg_agent_id: '110'
+    url: http://www.gutenberg.org/2009/agents/110
+    wikipedia: http://en.wikipedia.org/wiki/Sax_Rohmer
+description: ''
+gutenberg_issued: '2012-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41619'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcsh 'Mystery fiction'
+- !lcc 'PR'
+- !lcsh 'Adventure stories'
+- !lcsh 'Supernatural -- Fiction'
+tableOfContents: The haunting of Low Fennel -- The Valley of the Just -- The blue
+  monkey -- The riddle of Ragstaff -- The master of Hollow Grange -- The curse of
+  a thousand kisses -- The turquoise necklace.
+title: The Haunting of Low Fennel
+url: http://www.gutenberg.org/ebooks/41619
