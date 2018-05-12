@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/110
     wikipedia: http://en.wikipedia.org/wiki/Sax_Rohmer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41619#The-Haunting-of-Low-FennelThe-Haunting-of-Low-Fennel-The-Valley-of-the-Just-The-Blue-Monkey-T_
 gutenberg_issued: '2012-12-14'
 gutenberg_type: Text
 identifiers:
